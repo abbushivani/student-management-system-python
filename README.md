@@ -1,2 +1,9 @@
-# student-management-system-python
-Python Student Management System using CSV
+Student Management System using Python
+
+Features:
+- Add, View, Search, Update, Delete students
+- CSV file-based storage
+- Menu-driven program
+
+Technology:
+- Python 3
